@@ -19,4 +19,4 @@
 
 ### Resutados
 
-![Alt text](passwd.png "Phishing")
+![Alt text](passwd.PNG "Phishing")
